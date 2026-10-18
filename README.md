@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hisham Saeed</h1>
-<h3 align="center">Software Engineer · AI, Voice Agents & Backend</h3>
+<h3 align="center">Software Engineer · AI & Full-Stack</h3>
 <p align="center">M.Sc. Informatik student at the University of Bayreuth, Germany 🇩🇪<br/>Open to Werkstudent roles (20 h/week in semester, 40 h/week in breaks)</p>
 
 <p align="center">
