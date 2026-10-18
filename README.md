@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me
 
-- 🎙️ I build production AI systems: voice and telephony agents, workflow orchestration, RAG pipelines and full-stack SaaS platforms
+- 🎙️ I build production AI-powered products: LLM workflows, RAG pipelines, APIs and full-stack web apps
 - 🚀 Worked on multi-tenant products for enterprise clients, running **5,000+ automated conversations/day at sub-300ms latency**
 - 🏢 Experience at Velora AI Technologies (India), RealBotics (freelance) and Koko AI (Finland)
 - 📄 Author of a peer-reviewed paper on cyberbullying detection (IJEAT, 2025)
